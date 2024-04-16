@@ -1,0 +1,138 @@
+{
+	"properties": [
+        {
+            "id":"prop1",
+			"type":"House",
+            "bedrooms":3,
+			"price":750000,
+			"title":"Petts Wood Home",
+			"description":"Attractive three bedroom semi-detached family home situated within 0.5 miles of Petts Wood station with fast trains to London and within easy walking distance of local shops, schools, bus routes and National Trust woodland. The property comprises; two receptions, fitted 18'9 x 10'1 kitchen/breakfast room and conservatory. The property also benefits from having a utility room and cloakroom. To the first floor there are three bedrooms and a family bathroom with separate WC. Additional features include double glazing, gas central heating and a well presented interior...",
+			"location":"Petts Wood Road, Orpington",
+			"picture":"House1/image1main.png",
+      "thumbnailImages": [
+                "House1/image1main.png", "House1/image1main.png", "House1/image1main.png"], 
+			"url":"",
+            "added": {
+                "month":"October",
+                "day":12,
+                "year":2022
+            }
+            
+        },
+		{
+      "id":"prop2",
+			"type":"Flat",
+            "bedrooms":2,
+			"price":399995,
+			"title":"Crofton Flat",
+			"description":"Presented in excellent decorative order throughout is this two double bedroom, two bathroom, garden flat. <br>The modern fitted kitchen is open plan to the living room which boasts solid wooden floors and includes integrated appliances including a dishwasher & a washing machine. This large open plan benefits from bi folding doors onto a secluded private courtyard garden. Both bedrooms are double sized, and the family bathroom boasts a matching three piece suite a shower attachment over the bath. There is also a separate wet room. There are walnut doors throughout and wiring for Sky TV/aerial points in the living room/kitchen and both bedrooms.<br>This apartment being only five years old, is still under a 10 year building guarantee...",
+			"location":"Crofton Road Orpington BR6",
+			"picture":"House2/image2main.png",
+      "thumbnailImages": [
+                "House2/image2main.png", "House2/image2main.png", "House2/image2main.png","House2/image2main.png" ],
+			"url":"",
+            "added": {
+                "month":"September",
+                "day":14,
+                "year":2022
+            }
+            
+        },
+        {
+            "id": "prop3",
+            "type": "Flat",
+            "bedrooms": 1,
+            "price": 250000,
+            "title": "City Centre Flat",
+            "description": "Elegantly designed modern one-bedroom apartment with breathtaking panoramic views of the city skyline. This exceptional living space features an open plan kitchen/living area, providing a seamless flow and maximizing natural light. The spacious bedroom offers a private retreat, and the contemporary bathroom is adorned with high-end fixtures. Ideal for young professionals or couples seeking a sophisticated urban living experience. Conveniently located near public transport hubs and shopping centers.",
+            "location": "City Centre, Anytown",
+            "picture": "House3/image3main.png",
+            "thumbnailImages": [
+                "House3/image3main.png", "House3/image3main.png", "House3/image3main.png", "House3/image3main.png"],
+            "url": "",
+            "added": {
+              "month": "November",
+              "day": 5,
+              "year": 2022
+            }
+            
+          },
+          {
+            "id": "prop4",
+            "type": "House",
+            "bedrooms": 4,
+            "price": 980000,
+            "title": "Green Meadow House",
+            "description": "A magnificent and spacious family home boasting four bedrooms, a large garden, and modern amenities throughout. Nestled in a quiet suburban area, this delightful house offers a peaceful retreat from the hustle and bustle of the city. The property features a well-appointed kitchen, multiple living spaces, and a beautiful garden, making it an ideal residence for a growing family. Enjoy good schools and easy access to public transportation in this charming suburban haven.",
+            "location": "Green Meadows, Suburbia",
+            "picture": "image4main.png",
+            "thumbnailImages": [
+                "image4main.png", "image4main.png", "image4main.png", "image4main.png" ],
+            "url": "",
+            "added": {
+              "month": "December",
+              "day": 20,
+              "year": 2022
+            }
+            
+          },
+          {
+            "id": "prop5",
+            "type": "Flat",
+            "bedrooms": 2,
+            "price": 420000,
+            "title": "Artisan Towers Flat",
+            "description": "Indulge in the epitome of luxury living with this two-bedroom flat adorned with modern finishes and contemporary design. The building offers exclusive amenities, including a fully-equipped gym and a rooftop terrace with panoramic city views. This chic flat is situated in the heart of the trendy district, providing easy access to public transport and trendy cafes. An excellent choice for those who appreciate the finer aspects of urban living.",
+            "location": "Artisan Towers, Trendy District",
+            "picture": "image5main.png",
+            "thumbnailImages": [
+                "image5main.png", "image5main.png", "image5main.png", "image5main.png", "image5main.png", "image5main.png","image5main.png" ],
+            "url": "",
+            "added": {
+              "month": "January",
+              "day": 10,
+              "year": 2023
+            }
+            
+          },
+          {
+            "id": "prop6",
+            "type": "House",
+            "bedrooms": 3,
+            "price": 720000,
+            "title": "Rural Retreat Home",
+            "description": "Step into the warmth and charm of this delightful three-bedroom cottage with character features. Nestled in a picturesque village, this property offers a unique blend of modern comforts and traditional aesthetics. The local surroundings include quaint shops, reputable schools, and beautiful countryside walks. Immerse yourself in the tranquility of rural living with this enchanting property.",
+            "location": "Rural Retreat, Countryside",
+            "picture": "image6main.png",
+            "thumbnailImages": [
+                "image6main.png", "image6main.png", "image6main.png", "image6main.png" ],
+            "url": "",
+            "added": {
+              "month": "February",
+              "day": 15,
+              "year": 2023
+            }
+           
+          },
+          {
+            "id": "prop7",
+            "type": "Flat",
+            "bedrooms": 1,
+            "price": 300000,
+            "title": "Harbor View Flat",
+            "description": "Discover the cozy charm of this one-bedroom flat featuring a modern kitchen and a private balcony. Ideal for first-time buyers or as an investment property, this flat offers comfort and convenience. Located in the vibrant Harbor View neighborhood, this property is close to public transport and local amenities. A perfect choice for those seeking a harmonious blend of convenience and comfort.",
+            "location": "Harbor View, Seaside Town",
+            "picture": "image7main.png",
+            "thumbnailImages": [
+                "image7main.png", "image7main.png", "image7main.png" ],
+            "url": "",
+            "added": {
+              "month": "March",
+              "day": 8,
+              "year": 2023
+            }
+
+          }
+        
+
+]}
